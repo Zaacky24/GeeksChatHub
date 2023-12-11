@@ -40,7 +40,4 @@ Once the app is running, explore the features and start chatting!
 License
 This project is licensed under the MIT License.
 
-Contact
-If you have any questions or suggestions, feel free to contact us at geekschathub@example.com.
-
 Happy chatting with GeeksChatHub! 🚀
